@@ -10,4 +10,3 @@ namespace Tyuiu.ZubkovaMG.Sprint0.Task2.V0
         }
     }
 }
-    

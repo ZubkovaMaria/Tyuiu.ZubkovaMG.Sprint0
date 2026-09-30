@@ -3,7 +3,7 @@
 namespace Tyuiu.ZubkovaMG.Sprint0.Task2.V0.Test
 {
     [TestClass]
-    public sealed class DataServiceTest
+    public class DataServiceTest
     {
         [TestMethod]
         public void CheckGetMessageValid()
